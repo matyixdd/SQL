@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\sqlprojekt1\obj\Debug\sqlprojekt1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sqlprojekt1\obj\Debug\sqlprojekt1.Properties.Resources.resources
+C:\Users\user\Desktop\sqlprojekt1\obj\Debug\sqlprojekt1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\sqlprojekt1\obj\Debug\sqlprojekt1.csproj.CoreCompileInputs.cache

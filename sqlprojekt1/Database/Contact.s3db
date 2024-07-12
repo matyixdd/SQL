@@ -1,0 +1,4 @@
+﻿CREATE TABLE [Contact](
+[contact_id] INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+[FirstName] vARCHAR(50) NULL,
+[LastName] vARCHAR(50) NULL )
